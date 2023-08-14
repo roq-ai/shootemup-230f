@@ -1,0 +1,3282 @@
+[
+  {
+    "weapon": [
+      {
+        "id": "ffb8025d-ea3e-4cfa-9baf-53a3e50782be",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T13:57:55.843Z",
+        "updated_at": "2023-08-14T05:53:09.474Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6130b355-6d5a-4a2f-9742-2aded70a0495",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-14T00:09:31.253Z",
+        "updated_at": "2023-08-13T11:09:32.886Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26633605-ed4f-4253-aa7c-2715bf3d0235",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T16:26:19.700Z",
+        "updated_at": "2023-08-13T18:15:32.077Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "193a62fe-2988-42d0-a0d8-20b2a0d6f246",
+        "name": "Shadow",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T13:03:54.523Z",
+        "updated_at": "2023-08-14T03:23:23.119Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "830e1b88-c0a1-4ebe-ab4a-4e1b36b9b76e",
+        "name": "Titan",
+        "type": "Pistol",
+        "created_at": "2023-08-13T18:30:46.403Z",
+        "updated_at": "2023-08-14T05:31:57.118Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "ed62421d-9781-4fe5-bd7f-610739e18f89",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T12:57:49.179Z",
+        "updated_at": "2023-08-13T16:23:27.976Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2f94b51d-c06d-4a98-b0c6-c3d1b23efd43",
+        "name": "Security Pass",
+        "created_at": "2023-08-13T15:46:12.293Z",
+        "updated_at": "2023-08-13T18:25:40.608Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a2a0b283-d00d-4df0-9bf6-adb5a70c5e49",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T18:35:34.400Z",
+        "updated_at": "2023-08-13T07:49:03.807Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ad19993d-7cf2-43ba-8652-333bc0b5e768",
+        "name": "Employee Pass",
+        "created_at": "2023-08-14T03:34:17.948Z",
+        "updated_at": "2023-08-13T18:49:17.713Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "84f8aa02-256b-4bec-b9a1-54b1d32897fc",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T20:14:32.623Z",
+        "updated_at": "2023-08-13T18:38:33.708Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "fb97da80-0de5-40d6-b28d-d5393eb0ec2d",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-14T02:08:19.142Z",
+        "updated_at": "2023-08-14T03:44:04.456Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8cd7a046-1cbc-40ed-a26c-1f42177854e8",
+        "name": "Mission Phoenix",
+        "reward": "$5,000",
+        "created_at": "2023-08-14T01:13:54.881Z",
+        "updated_at": "2023-08-13T21:59:52.390Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01775f1c-b43f-480e-938e-d51d87f0bf8e",
+        "name": "Project Avalanche",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T11:35:43.277Z",
+        "updated_at": "2023-08-14T06:26:43.632Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "31b32631-e447-4995-8b09-6ec809f6500a",
+        "name": "Operation Blackout",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T10:45:45.060Z",
+        "updated_at": "2023-08-14T00:06:02.218Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "edcf0993-cf47-4521-9255-bc6a8abb07cd",
+        "name": "Mission Firestorm",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T11:59:56.140Z",
+        "updated_at": "2023-08-14T07:02:01.164Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "73a1d7ea-811a-4158-a048-ccf829b0401e",
+        "name": "Cityscape",
+        "created_at": "2023-08-14T03:54:54.000Z",
+        "updated_at": "2023-08-13T23:36:24.940Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "67f3c0ab-4874-4893-bd84-f63c6a761b75",
+        "name": "Jungle Ruins",
+        "created_at": "2023-08-13T20:25:29.141Z",
+        "updated_at": "2023-08-14T01:29:54.350Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "55c9c06a-7114-419b-a6f5-ddcfc6283257",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-14T03:49:23.819Z",
+        "updated_at": "2023-08-13T13:00:10.606Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d1f48699-d19b-4ba1-bf63-147faa71d9bc",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T21:14:30.774Z",
+        "updated_at": "2023-08-13T14:49:07.458Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8006d17-e4b0-49d0-be52-478c6c4c9c1c",
+        "name": "Abandoned Warehouse",
+        "created_at": "2023-08-13T14:33:44.055Z",
+        "updated_at": "2023-08-13T20:37:24.167Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "992e426b-346a-439e-aa5b-ab044f749cd9",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T08:49:57.366Z",
+        "updated_at": "2023-08-13T07:51:49.405Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed4bc072-3003-4511-acb2-620fc690b8f1",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T19:44:00.080Z",
+        "updated_at": "2023-08-13T12:41:09.067Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "58675798-d70e-4ddf-8386-6da31fa3ddf8",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-14T01:27:50.050Z",
+        "updated_at": "2023-08-14T06:27:40.820Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad25c7cf-5f3c-4592-8224-9e165fd6d76b",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-14T00:35:26.048Z",
+        "updated_at": "2023-08-13T22:26:11.752Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1ecdb24e-93ec-4a98-ab42-9be5e5980fa1",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T11:32:49.343Z",
+        "updated_at": "2023-08-13T21:17:19.058Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "f777d2b1-4539-4e90-a304-eaa452498a12",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T11:26:26.034Z",
+        "updated_at": "2023-08-14T03:09:32.543Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fe2df730-88a3-46ba-84f9-01582f80bdfd",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T16:57:42.634Z",
+        "updated_at": "2023-08-13T09:37:46.991Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f4cb270e-3310-414e-bbb5-9bef53cfd23a",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T23:37:14.189Z",
+        "updated_at": "2023-08-13T15:51:52.206Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "89c16b21-bdc7-471e-b165-acf8bb930707",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-14T02:52:37.404Z",
+        "updated_at": "2023-08-13T17:35:47.772Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3b310cba-35a2-480f-9aa9-3599496e0353",
+        "name": "EMP Grenade",
+        "type": "Disruption",
+        "created_at": "2023-08-13T14:02:48.028Z",
+        "updated_at": "2023-08-13T23:20:26.642Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "d7458b7a-c1da-437d-9901-f1088e5a9f26",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-14T00:16:37.502Z",
+        "updated_at": "2023-08-13T13:24:58.489Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6fd89242-0a97-4dde-b36d-37a5b57b258d",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-13T17:45:10.578Z",
+        "updated_at": "2023-08-13T21:07:09.534Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0b9982b7-bc8d-4949-8c0f-0779f33eb7be",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-14T03:55:21.082Z",
+        "updated_at": "2023-08-14T05:09:44.518Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e368f39c-df9e-4a32-a35c-ffa47500f9e6",
+        "name": "Foregrip",
+        "type": "Stability",
+        "created_at": "2023-08-13T23:03:57.175Z",
+        "updated_at": "2023-08-14T04:23:04.666Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a029de99-bbe6-41b0-94f7-779df980888e",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-14T03:15:51.047Z",
+        "updated_at": "2023-08-13T17:37:34.924Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6413f39c-c040-4b17-8312-6a62672b5cd3",
+        "email": "Bridget55@hotmail.com",
+        "firstName": "Adelia",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/362.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "095d2a8d-d834-46dc-a3d9-43c066f86cf3",
+        "email": "Kaylee53@gmail.com",
+        "firstName": "Myles",
+        "lastName": "Grant",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/179.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ef1e33df-1c8d-44e0-bf7a-b0f6bdbe7c5a",
+        "email": "Ramiro.Beier49@gmail.com",
+        "firstName": "Armando",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8500295",
+        "tenantId": null
+      },
+      {
+        "reference": "215772b6-a849-4d7f-94a5-8e1b1628ce1d",
+        "email": "Jovan_Abshire@yahoo.com",
+        "firstName": "Francesca",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/286.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ac3dcb01-b8b3-440b-b356-676528c2117a",
+        "email": "Mikayla_Denesik@gmail.com",
+        "firstName": "Markus",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78287272",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "904bd7b5-5a02-4bc0-8e4c-02673d8eeb8d",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T17:49:53.331Z",
+        "updated_at": "2023-08-14T06:31:22.522Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "49bc406d-c1e4-4e7e-9ba3-23f22157bed4",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T08:57:59.750Z",
+        "updated_at": "2023-08-14T03:45:50.560Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2439332-0403-4a19-a41c-951fcb01dde6",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T15:04:24.681Z",
+        "updated_at": "2023-08-14T04:57:06.804Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ad334237-fff1-40bf-8ce4-9fcd7f2fd3e9",
+        "name": "Phoenix",
+        "type": "Pistol",
+        "created_at": "2023-08-13T09:07:40.983Z",
+        "updated_at": "2023-08-14T03:13:19.097Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8dfd1d0b-91be-440c-86da-db38b6f3e3c5",
+        "name": "Titan",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T15:48:06.348Z",
+        "updated_at": "2023-08-13T13:26:38.120Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "698fd748-25bd-4dc6-94a8-0932ceb495cd",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T20:42:39.507Z",
+        "updated_at": "2023-08-13T17:05:12.428Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5039b598-ee9e-4d34-ae48-2c869ee589b4",
+        "name": "Security Pass",
+        "created_at": "2023-08-14T03:55:39.360Z",
+        "updated_at": "2023-08-14T06:54:08.990Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "51bcc85e-cd26-4dde-a4ae-d815fd77d6c7",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T18:02:59.334Z",
+        "updated_at": "2023-08-13T15:48:54.511Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0100d9fa-7393-469b-9776-3ba8719610c3",
+        "name": "Employee Pass",
+        "created_at": "2023-08-13T21:01:37.140Z",
+        "updated_at": "2023-08-14T00:47:29.496Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cdf34be5-38c7-4a89-8a6d-353aabe76b80",
+        "name": "VIP Pass",
+        "created_at": "2023-08-14T01:00:07.929Z",
+        "updated_at": "2023-08-13T07:35:44.901Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "775cace4-e782-40f5-8efa-ff4c60ecc738",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T14:26:02.017Z",
+        "updated_at": "2023-08-13T19:55:48.289Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "12f9e499-5e8d-439f-a862-12aeeeac4251",
+        "name": "Mission Alpha",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T22:14:56.460Z",
+        "updated_at": "2023-08-13T20:52:09.510Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "284f9784-56da-4318-aed7-77db8650d8ab",
+        "name": "Project Delta",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T20:46:58.721Z",
+        "updated_at": "2023-08-13T11:09:44.117Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ab1f07f4-a725-4d7b-802c-f9e6354651bd",
+        "name": "Operation Nightfall",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T23:29:22.717Z",
+        "updated_at": "2023-08-14T00:41:35.665Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7d9c037a-46ac-4679-a8cc-340f61ee52d8",
+        "name": "Task Force Zulu",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T11:33:25.830Z",
+        "updated_at": "2023-08-13T22:39:37.255Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "1ea68f22-a35e-4f9f-9959-1bc9b5ae0571",
+        "name": "Forest Retreat",
+        "created_at": "2023-08-14T05:14:10.002Z",
+        "updated_at": "2023-08-13T08:07:51.261Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "84c37983-7890-4b99-bc55-9b489381b6c7",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-13T12:11:25.327Z",
+        "updated_at": "2023-08-13T13:18:36.216Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ccbbd053-85d8-4194-b023-71bf1c1b2bf0",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-13T18:41:29.720Z",
+        "updated_at": "2023-08-14T05:05:11.599Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "809a65fd-b7ce-4c2e-8dd7-fecbd40f10a9",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T08:28:01.056Z",
+        "updated_at": "2023-08-13T09:37:35.588Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6ed52e79-0bd8-45c7-8664-59e843f1d52c",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-14T04:09:39.827Z",
+        "updated_at": "2023-08-13T14:51:32.485Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "7044dc82-3bf3-4ba5-9bde-6a9264a0d743",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T13:15:29.421Z",
+        "updated_at": "2023-08-14T04:31:06.611Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b499a1d0-3816-41d6-b90e-0f6c38fc5208",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T11:57:37.369Z",
+        "updated_at": "2023-08-13T13:59:51.194Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5fe3af5-d74e-421b-ac65-2e709fb7afac",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-13T10:06:47.383Z",
+        "updated_at": "2023-08-13T11:00:27.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a4417e4-04a8-45bc-8858-ae51c7c1a297",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-13T22:29:54.977Z",
+        "updated_at": "2023-08-13T09:01:48.989Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c63c66b0-89da-4f42-a4bf-390256152721",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T09:28:50.901Z",
+        "updated_at": "2023-08-13T22:01:08.317Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "ccd9bcce-419c-401f-8cf2-c4e838f321b8",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T12:05:35.337Z",
+        "updated_at": "2023-08-13T18:55:59.655Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "406f844c-e578-4c61-ae34-aeb8322687d8",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T21:13:52.156Z",
+        "updated_at": "2023-08-13T21:13:14.915Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "24d2e743-1392-419f-92f6-8841cf6e2484",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T10:17:27.592Z",
+        "updated_at": "2023-08-13T11:31:32.727Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "422988ae-5d8e-404d-a489-1455f597f116",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T15:48:26.306Z",
+        "updated_at": "2023-08-13T23:27:51.544Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c30688a3-e3f5-45b6-be73-baa340a80697",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-13T20:29:27.026Z",
+        "updated_at": "2023-08-13T07:53:32.545Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "d18dd5f3-df79-4137-90df-a763724aa95e",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T12:17:18.495Z",
+        "updated_at": "2023-08-13T15:43:21.452Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "69c2a2b6-bc1a-4adf-951d-518836b64a89",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-13T13:44:32.305Z",
+        "updated_at": "2023-08-14T04:37:39.743Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8bdadee-a71a-4045-b6a6-6abca7bdd0a1",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T19:21:10.239Z",
+        "updated_at": "2023-08-13T09:29:33.914Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2ff1dc1-09b1-4682-8543-1ae4b1d5bc78",
+        "name": "Grip",
+        "type": "Stability",
+        "created_at": "2023-08-14T02:32:03.524Z",
+        "updated_at": "2023-08-13T23:41:15.279Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "70865d06-a8ae-46be-a522-61cfdced8e48",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T23:05:58.807Z",
+        "updated_at": "2023-08-13T14:12:00.783Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cf0f535b-61b9-4975-ae97-fdcbddd7a0e0",
+        "email": "Meredith2@yahoo.com",
+        "firstName": "Rachael",
+        "lastName": "Hickle",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16746471",
+        "tenantId": null
+      },
+      {
+        "reference": "9a1759b5-6e77-45fe-84a1-5d46e5240976",
+        "email": "Deondre_Heaney@yahoo.com",
+        "firstName": "Enid",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/575.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c3f8ae9-ca4f-411a-83c9-ef1f611cc8ba",
+        "email": "Elmo36@hotmail.com",
+        "firstName": "Reinhold",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1106.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "34a34ab1-2d06-423c-8238-b8e4c83d343a",
+        "email": "Lester24@gmail.com",
+        "firstName": "Stephany",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83451260",
+        "tenantId": null
+      },
+      {
+        "reference": "fa2ea623-1154-481a-bb73-6b16b09b1921",
+        "email": "Keagan1@hotmail.com",
+        "firstName": "Angie",
+        "lastName": "Erdman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11777074",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "51bf208a-94fa-433f-a927-279a84c23d7b",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T16:41:58.220Z",
+        "updated_at": "2023-08-14T00:37:22.278Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "288ee76a-001e-4e5f-b77b-c6efdf3303ff",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T17:34:19.877Z",
+        "updated_at": "2023-08-13T18:09:06.396Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd791da6-87cb-47cf-9f1f-9219866b2817",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T11:28:10.822Z",
+        "updated_at": "2023-08-13T18:03:33.120Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e37d8962-7382-4f69-b0f3-cdd5da12d21c",
+        "name": "Phoenix",
+        "type": "Pistol",
+        "created_at": "2023-08-13T12:07:35.866Z",
+        "updated_at": "2023-08-13T16:54:43.617Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "58365a41-ca0a-46fd-9d9d-6d2028894fe6",
+        "name": "Titan",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T18:25:08.550Z",
+        "updated_at": "2023-08-13T09:32:23.187Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "deae369f-0ebf-46e4-a93a-243b6dfb6745",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T21:49:52.465Z",
+        "updated_at": "2023-08-14T02:24:33.435Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4a896985-de8a-4967-8d8e-62a556a58350",
+        "name": "Security Pass",
+        "created_at": "2023-08-13T14:40:18.174Z",
+        "updated_at": "2023-08-14T00:01:30.385Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2f7ae12-d014-41fc-a1e3-02804ebf2eff",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T10:28:42.695Z",
+        "updated_at": "2023-08-13T08:39:35.753Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "464a712d-55b6-42d0-8f5b-913a2b59a543",
+        "name": "Employee Pass",
+        "created_at": "2023-08-13T17:56:59.140Z",
+        "updated_at": "2023-08-13T13:53:02.415Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3399fa14-d0a6-4f28-bef0-aad0c01e6d2a",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T12:12:24.315Z",
+        "updated_at": "2023-08-13T21:27:17.275Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "5cf8de46-0a55-4736-8339-2dda89781fff",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T09:04:32.083Z",
+        "updated_at": "2023-08-13T14:34:34.511Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "427f4d09-c048-4e6e-bf7b-768123aad2fc",
+        "name": "Mission Alpha",
+        "reward": "$5,000",
+        "created_at": "2023-08-14T05:58:37.324Z",
+        "updated_at": "2023-08-14T06:20:07.955Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "29a782bf-54bf-461e-977c-263d98969431",
+        "name": "Project Delta",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T20:07:17.030Z",
+        "updated_at": "2023-08-13T20:38:30.545Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ad0bcdc0-11a3-4ab5-8107-34ef46254cda",
+        "name": "Operation Nightfall",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T07:44:10.458Z",
+        "updated_at": "2023-08-13T13:57:46.371Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8c680da-7004-4544-9c7b-9cd2fba5a4a6",
+        "name": "Task Force Zulu",
+        "reward": "$8,000",
+        "created_at": "2023-08-14T02:02:48.564Z",
+        "updated_at": "2023-08-14T04:59:28.927Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "197ef081-10c1-454b-a6d0-99dafe6d5ae1",
+        "name": "Cityscape",
+        "created_at": "2023-08-13T15:20:57.532Z",
+        "updated_at": "2023-08-14T02:22:16.476Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "563bdfde-5c44-4003-b0cc-c839ce71013b",
+        "name": "Jungle Ruins",
+        "created_at": "2023-08-13T12:49:29.639Z",
+        "updated_at": "2023-08-13T14:26:57.146Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "63e15300-1895-4390-9f1b-75f40d35f1ad",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-14T06:44:06.710Z",
+        "updated_at": "2023-08-13T17:33:28.431Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "194f8add-9376-4146-bd0c-bb70eccfb209",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T07:25:33.418Z",
+        "updated_at": "2023-08-13T13:08:20.074Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "455374a8-2e93-44c0-b827-b80eb5ecc775",
+        "name": "Underground Bunker",
+        "created_at": "2023-08-13T10:19:55.087Z",
+        "updated_at": "2023-08-14T02:43:55.861Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "8b352c61-68c2-48a0-a308-eb7b6d0c37ed",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-14T01:45:46.295Z",
+        "updated_at": "2023-08-14T03:40:35.122Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3177167-ec63-4f39-b4d4-3da8ec90f414",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T15:15:30.717Z",
+        "updated_at": "2023-08-13T14:38:22.515Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc7da71c-6caa-40a8-a339-707fc67c39a7",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-14T04:23:40.676Z",
+        "updated_at": "2023-08-13T18:55:49.256Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ca44945-0901-4a76-a779-cdf8a45c3e95",
+        "name": "Demolition Loadout",
+        "created_at": "2023-08-14T05:05:08.039Z",
+        "updated_at": "2023-08-13T08:25:00.713Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e49e4c8-b0eb-4520-82b4-e9fece4b323b",
+        "name": "Support Loadout",
+        "created_at": "2023-08-14T05:50:35.378Z",
+        "updated_at": "2023-08-13T08:45:46.646Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "63a03802-477f-4dc8-a530-638968129c6c",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T18:41:57.780Z",
+        "updated_at": "2023-08-13T21:28:07.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6ce5fe87-eb7f-4537-a547-bcfde402caf3",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T12:54:26.271Z",
+        "updated_at": "2023-08-13T13:17:01.814Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f330e8fb-d690-49fa-be67-5c70b253fa60",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T10:21:45.328Z",
+        "updated_at": "2023-08-14T00:27:16.886Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3369511a-5fa9-49eb-92a4-650155af8606",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T23:05:49.713Z",
+        "updated_at": "2023-08-13T18:23:13.023Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4a9a606a-2f4d-4fba-aecf-e768a91d0ada",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-13T07:47:45.379Z",
+        "updated_at": "2023-08-14T03:16:15.800Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "ec1aed85-f059-427f-b2ee-7d94efd76e7d",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T17:57:14.422Z",
+        "updated_at": "2023-08-13T18:47:46.431Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "becf5d2f-8165-4356-9365-91fbeb0178db",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-14T02:51:03.413Z",
+        "updated_at": "2023-08-14T04:19:08.346Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a8a11be2-7387-4767-acf1-698c79e3051f",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T08:15:09.006Z",
+        "updated_at": "2023-08-14T04:45:08.972Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c6e3d023-4a82-4259-9b0f-c64ee17f3eaa",
+        "name": "Grip",
+        "type": "Stability",
+        "created_at": "2023-08-13T23:28:18.378Z",
+        "updated_at": "2023-08-13T22:24:22.752Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "109f9fcd-3fee-41eb-b671-960c97be534e",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T10:57:11.074Z",
+        "updated_at": "2023-08-14T01:58:30.961Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b7842003-da88-4c39-8723-fce83a9dea02",
+        "email": "Carson_Wolf@yahoo.com",
+        "firstName": "Mellie",
+        "lastName": "Veum-McLaughlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10002980",
+        "tenantId": null
+      },
+      {
+        "reference": "76a51526-689a-4359-812f-047f6b6910fe",
+        "email": "Brown37@hotmail.com",
+        "firstName": "Lavina",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43074804",
+        "tenantId": null
+      },
+      {
+        "reference": "e14e5a37-1b8c-41a6-a296-79e0918065b8",
+        "email": "Maddison72@gmail.com",
+        "firstName": "Santina",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/818.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "44d5496e-fe8e-435f-b460-81dd93dec98c",
+        "email": "Dawson.Bartoletti96@hotmail.com",
+        "firstName": "Adrianna",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/900.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "edb94d19-1d3a-49c7-bf71-f8b4158691a4",
+        "email": "Samanta.Ortiz@hotmail.com",
+        "firstName": "Tito",
+        "lastName": "Schumm",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/488.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "cb950ad4-fbe9-492b-ba79-9267a63ef68a",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T18:15:52.978Z",
+        "updated_at": "2023-08-14T02:49:21.200Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "48672b6f-62f4-4ac7-b365-ef0f5af09e53",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T20:29:02.557Z",
+        "updated_at": "2023-08-13T13:43:12.743Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1080515f-4b0f-4d18-bef2-68edad4b3f11",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T16:31:59.148Z",
+        "updated_at": "2023-08-13T14:33:42.008Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5707967c-3275-4296-8e15-b34ef852b23f",
+        "name": "Phoenix",
+        "type": "Pistol",
+        "created_at": "2023-08-13T10:26:19.180Z",
+        "updated_at": "2023-08-13T14:20:56.801Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c97d1ff5-6084-4797-bd21-5c57ed219071",
+        "name": "Titan",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T17:14:42.239Z",
+        "updated_at": "2023-08-14T05:21:47.585Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "6976ebd9-82d3-479f-a820-1582aa4e2724",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T09:05:07.500Z",
+        "updated_at": "2023-08-14T02:51:36.936Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01510ca6-7816-420d-9385-25f147351037",
+        "name": "Security Pass",
+        "created_at": "2023-08-13T08:43:30.716Z",
+        "updated_at": "2023-08-13T22:04:09.130Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bb4e6729-d0c3-496e-82fc-7f9417969a5f",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T22:54:29.710Z",
+        "updated_at": "2023-08-13T15:49:55.216Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b90eaed-2685-452e-a1e0-af1ff28b9e18",
+        "name": "Employee Pass",
+        "created_at": "2023-08-13T11:26:53.888Z",
+        "updated_at": "2023-08-13T09:49:47.521Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8a2e20a9-37f5-40f6-9594-a0a4425545e4",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T16:53:50.332Z",
+        "updated_at": "2023-08-14T05:17:24.171Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "dd0f80c3-6b19-4b9b-be92-12cd6ee29d5a",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T13:59:49.145Z",
+        "updated_at": "2023-08-13T18:06:29.092Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2a7c72b-1c61-418d-ae7e-dfbf421e4ea9",
+        "name": "Mission Alpha",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T10:17:46.241Z",
+        "updated_at": "2023-08-14T00:34:09.441Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5c9d5abe-26a5-40d5-9b88-29df1769b5ba",
+        "name": "Project Delta",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T12:12:54.448Z",
+        "updated_at": "2023-08-14T04:12:43.907Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "94cdb1e5-6b1e-456e-bf17-910cb7bf9cf3",
+        "name": "Operation Nightfall",
+        "reward": "$12,500",
+        "created_at": "2023-08-14T02:46:47.524Z",
+        "updated_at": "2023-08-13T09:39:13.878Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8f89c62f-2712-4a09-b3f5-b984fafd71da",
+        "name": "Task Force Zulu",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T15:18:02.578Z",
+        "updated_at": "2023-08-14T06:00:16.680Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "510019be-6baa-4b71-8086-83382bdf4236",
+        "name": "Forest Retreat",
+        "created_at": "2023-08-13T12:47:05.033Z",
+        "updated_at": "2023-08-14T07:01:52.439Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5ab7ab44-de32-4129-96a1-964389de0595",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-13T08:58:38.612Z",
+        "updated_at": "2023-08-13T12:58:31.395Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6643d168-ce14-4e95-bc50-61433a5706b6",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-13T11:40:07.164Z",
+        "updated_at": "2023-08-13T18:35:54.614Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bae4c848-dc11-44cc-b484-2fc2036a2a57",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T13:55:50.422Z",
+        "updated_at": "2023-08-13T14:00:21.061Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ffc33520-983e-413e-aeae-727fb14381c4",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-14T04:56:20.241Z",
+        "updated_at": "2023-08-13T08:55:38.489Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "963ccf55-3c7b-4ce6-a100-10fcdb1565ce",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T08:48:14.135Z",
+        "updated_at": "2023-08-14T00:16:51.127Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "75ec2005-394c-47ff-b76c-63c0c3390027",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-14T05:48:06.993Z",
+        "updated_at": "2023-08-13T17:59:41.481Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab6489ec-9c13-4709-9b33-a011f3c267ff",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-14T02:30:54.922Z",
+        "updated_at": "2023-08-13T23:03:11.917Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "382036a4-8661-41d5-bfa6-2a892155c59d",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-14T03:48:53.518Z",
+        "updated_at": "2023-08-13T14:16:32.908Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e1a6d0ce-5336-4302-97e6-0382716d2585",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T15:22:08.460Z",
+        "updated_at": "2023-08-13T21:28:22.986Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "79a27655-e57b-4271-9924-8043e7fd73d2",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T08:15:02.848Z",
+        "updated_at": "2023-08-14T04:00:12.509Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c0b7b06f-799b-4732-b9c2-9e3cc8a0f061",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-14T04:02:54.819Z",
+        "updated_at": "2023-08-13T19:06:08.830Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "02c64194-c379-4556-a7f5-1c5db1f9530e",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T12:50:59.831Z",
+        "updated_at": "2023-08-13T10:35:25.566Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9595321f-940f-4690-a691-b5cf4536b104",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T17:09:45.407Z",
+        "updated_at": "2023-08-13T10:26:56.249Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c0a90d06-04a5-4cfb-9aef-644ea51a12ee",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-14T04:25:11.038Z",
+        "updated_at": "2023-08-13T17:20:49.440Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "134e7100-6382-4cf6-a42f-ec9c128cac2b",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T22:59:35.780Z",
+        "updated_at": "2023-08-13T18:10:29.412Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6fb390c1-8b4b-45e5-87a6-22fcaabcfe4f",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-14T04:51:05.186Z",
+        "updated_at": "2023-08-14T03:18:22.566Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9a65ebfb-fd66-40ae-bcdc-8a3d8c54f428",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T18:06:43.135Z",
+        "updated_at": "2023-08-13T17:19:04.903Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e736bb29-28fb-4280-bc94-5ebbf788ed12",
+        "name": "Foregrip",
+        "type": "Stability",
+        "created_at": "2023-08-13T20:13:33.742Z",
+        "updated_at": "2023-08-13T13:46:44.589Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6dc6e389-1c5a-487b-babb-13d4fdd19aa2",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T19:20:39.805Z",
+        "updated_at": "2023-08-13T08:56:10.870Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "22d4232b-4e89-49c3-920f-a99bd0cf1be1",
+        "email": "Noemie_Leannon@yahoo.com",
+        "firstName": "Miller",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/932.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "047ab680-2bd3-4c07-96fc-2641045ae7b7",
+        "email": "Antonia20@gmail.com",
+        "firstName": "Sandra",
+        "lastName": "Senger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/991.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ac240bbe-2953-44df-946b-bc9fb8ac1da6",
+        "email": "Waylon82@gmail.com",
+        "firstName": "Rolando",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1164.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9f1a7a27-a87e-499e-8866-4820a8f72bf5",
+        "email": "Doris_Jaskolski55@yahoo.com",
+        "firstName": "Reanna",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/118.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "85f478c6-5b0a-4e86-be18-01cff2ebf6fd",
+        "email": "Jodie_Carroll@hotmail.com",
+        "firstName": "Sim",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/632.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "4239e1ec-f8ae-4bdd-86c7-1ea32c3b8890",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-14T02:54:17.931Z",
+        "updated_at": "2023-08-14T04:03:11.765Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "60ad02f2-497a-4be1-87ea-971c976ffe46",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T11:11:04.604Z",
+        "updated_at": "2023-08-14T02:19:22.238Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8e98a088-fbd9-4c96-a407-c69861576055",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T14:59:27.117Z",
+        "updated_at": "2023-08-13T20:14:25.648Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e6d6d6ae-cb6d-475a-9f7a-73080788a74f",
+        "name": "Shadow",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-14T02:43:42.265Z",
+        "updated_at": "2023-08-13T09:00:27.973Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ab9a51d-8308-46c0-ae34-7e891bd16fa1",
+        "name": "Titan",
+        "type": "Pistol",
+        "created_at": "2023-08-13T11:45:17.395Z",
+        "updated_at": "2023-08-13T17:03:34.122Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "47022f2a-6a51-4318-bae2-867fe9d1398d",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T10:02:06.064Z",
+        "updated_at": "2023-08-13T11:14:00.408Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "80622da3-0f48-46b3-ac4f-1a9ad2f4cf67",
+        "name": "Security Pass",
+        "created_at": "2023-08-13T11:17:54.002Z",
+        "updated_at": "2023-08-13T17:16:49.148Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "57802aa8-745a-4221-9e99-ec4eabc821c6",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T16:53:16.038Z",
+        "updated_at": "2023-08-14T03:56:04.092Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dba1333b-5cf7-430c-bea9-982dab7f916b",
+        "name": "Employee Pass",
+        "created_at": "2023-08-14T07:04:30.555Z",
+        "updated_at": "2023-08-14T02:06:29.752Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "39f5282a-5be2-4381-955e-e051ffcf6f2b",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T20:37:23.812Z",
+        "updated_at": "2023-08-14T04:24:19.288Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "79af8c41-da6f-4a26-bec1-73bbc42ca484",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-14T06:36:31.827Z",
+        "updated_at": "2023-08-13T17:20:52.665Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d6f5485f-3728-4a8a-968a-92e795d668d9",
+        "name": "Mission Phoenix",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T07:32:09.469Z",
+        "updated_at": "2023-08-13T16:49:38.079Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2ce471f1-3138-40ea-816d-47a4b35a562f",
+        "name": "Project Avalanche",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T22:18:57.537Z",
+        "updated_at": "2023-08-14T06:59:25.709Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ecc48138-09f2-4837-9d88-9cb791c33212",
+        "name": "Operation Blackout",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T14:23:31.383Z",
+        "updated_at": "2023-08-13T19:39:36.823Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fbce38c-9571-4809-948f-4143faac539e",
+        "name": "Mission Firestorm",
+        "reward": "$8,000",
+        "created_at": "2023-08-14T03:16:04.694Z",
+        "updated_at": "2023-08-13T08:54:00.806Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "aca4ad64-ca3d-420b-a7c0-cc25fcb62974",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-13T16:00:27.047Z",
+        "updated_at": "2023-08-13T12:34:32.624Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d8c6dced-0f6b-4632-a41a-26f55da4b257",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T21:33:07.067Z",
+        "updated_at": "2023-08-14T03:38:00.009Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b95bb73e-8e5a-425f-924f-ff2cbd9ffbd9",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-14T04:08:28.036Z",
+        "updated_at": "2023-08-13T13:54:54.657Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "52e7e238-dfe1-4e41-b270-3011fbc8a771",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-13T10:22:07.038Z",
+        "updated_at": "2023-08-13T20:50:34.149Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "73314d92-7b78-42ce-8fc5-2871f4f2346e",
+        "name": "Haunted Mansion",
+        "created_at": "2023-08-13T21:46:09.075Z",
+        "updated_at": "2023-08-14T01:29:39.336Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "b181111a-d27e-4f79-85c0-bcf45250d19f",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-14T03:04:25.263Z",
+        "updated_at": "2023-08-14T02:44:30.483Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7bf03b9c-99b1-4803-b00d-509b2b75acbf",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T23:44:50.545Z",
+        "updated_at": "2023-08-13T21:14:05.160Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fbb39d97-ca8b-4b59-bcac-c26f22e8008a",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-13T22:23:51.374Z",
+        "updated_at": "2023-08-13T13:23:42.235Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "640e195e-dc7c-4850-8b9a-3ef5d54508b1",
+        "name": "Demolition Loadout",
+        "created_at": "2023-08-13T19:16:37.446Z",
+        "updated_at": "2023-08-14T02:15:46.151Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9edcaf2-7f37-4e4a-86bf-0ffe9d98fa7a",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T18:38:14.332Z",
+        "updated_at": "2023-08-14T06:51:24.333Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "cbfd929f-081a-4222-8fae-cf47e5feaa4a",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-14T00:06:12.605Z",
+        "updated_at": "2023-08-14T06:42:43.057Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a40593a4-ece3-49bd-92a1-628aa8868fe2",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T08:47:52.697Z",
+        "updated_at": "2023-08-14T04:01:55.009Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5b418738-939c-4cc8-a1cd-26b4f57e2f5a",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T07:26:18.653Z",
+        "updated_at": "2023-08-13T12:57:46.790Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0bf091d1-b9a2-41e8-97ab-6510e10c1f7e",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-14T05:08:55.386Z",
+        "updated_at": "2023-08-13T18:48:17.533Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9d255527-af87-4337-b998-e22e93a0a81f",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-14T05:59:28.563Z",
+        "updated_at": "2023-08-13T21:21:48.944Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "ca17bd3d-6181-47a8-aeca-de57f41d8b04",
+        "name": "Silencer",
+        "type": "Suppressor",
+        "created_at": "2023-08-13T12:16:33.222Z",
+        "updated_at": "2023-08-13T10:12:33.740Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "033e59aa-0d8a-456e-9ff1-87f796c3c15f",
+        "name": "Scope",
+        "type": "Optical",
+        "created_at": "2023-08-13T22:51:44.977Z",
+        "updated_at": "2023-08-14T01:15:21.137Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "56453003-d741-4a96-a357-332e6ea835b4",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T21:58:10.491Z",
+        "updated_at": "2023-08-13T11:39:19.064Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c68e4daa-5b0f-4a99-99c5-99d943b885f5",
+        "name": "Grip",
+        "type": "Foregrip",
+        "created_at": "2023-08-13T14:39:57.952Z",
+        "updated_at": "2023-08-14T03:43:21.173Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "315f99d6-37b2-43bc-83a1-b5b16feec9d5",
+        "name": "Laser Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-14T02:56:58.659Z",
+        "updated_at": "2023-08-13T16:09:20.727Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6fb5f05e-ac38-49ea-a4c6-325448d0993f",
+        "email": "Olaf_Schoen-Ritchie@yahoo.com",
+        "firstName": "Skyla",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34364704",
+        "tenantId": null
+      },
+      {
+        "reference": "2b2fda20-b377-4fd7-854e-c4809eba80d5",
+        "email": "Drake_Schaefer@gmail.com",
+        "firstName": "Gust",
+        "lastName": "Parker",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55808423",
+        "tenantId": null
+      },
+      {
+        "reference": "1bd7262c-47ee-49d5-878c-874389d0c349",
+        "email": "Chet_Kautzer@gmail.com",
+        "firstName": "Toy",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/465.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5347b84e-02e7-48e8-b643-292615c99842",
+        "email": "Ila32@gmail.com",
+        "firstName": "Markus",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1161.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0cf62132-26c2-42ca-acab-e56bc3a2da21",
+        "email": "Russ.Kerluke78@gmail.com",
+        "firstName": "Fabian",
+        "lastName": "Brekke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54766224",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "8500cb7e-fcbc-4b1a-8809-deb87f2a316c",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T12:06:30.689Z",
+        "updated_at": "2023-08-13T20:20:54.018Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "889259b9-ee91-43bc-bbd1-e6d0b3c5b569",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T21:39:11.801Z",
+        "updated_at": "2023-08-14T03:14:45.233Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2c7909e9-7b10-4450-9f78-954c8f8bd97b",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T23:14:35.168Z",
+        "updated_at": "2023-08-13T11:12:44.831Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f29be479-4b71-4128-8901-8087d6ffe99f",
+        "name": "Shadow",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T16:26:44.694Z",
+        "updated_at": "2023-08-13T18:22:37.393Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2272fba2-40e0-436f-b869-6c90ce2236f4",
+        "name": "Titan",
+        "type": "Pistol",
+        "created_at": "2023-08-13T18:22:19.551Z",
+        "updated_at": "2023-08-14T01:17:55.075Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "c998887a-a16d-43f9-a3d3-7cc07ff79eff",
+        "name": "Silver Pass",
+        "created_at": "2023-08-13T18:13:34.912Z",
+        "updated_at": "2023-08-13T15:05:19.211Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "09c1da04-e825-42eb-aeab-1008b513055c",
+        "name": "Gold Pass",
+        "created_at": "2023-08-13T22:40:17.738Z",
+        "updated_at": "2023-08-13T13:28:49.077Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b02571cb-24d0-4e96-9792-c34581516774",
+        "name": "Platinum Pass",
+        "created_at": "2023-08-13T12:50:24.033Z",
+        "updated_at": "2023-08-14T03:12:01.029Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "73558424-1239-491c-8dbd-518aa49f120d",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T11:19:09.873Z",
+        "updated_at": "2023-08-13T08:40:34.182Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "08134332-8746-4acc-acb5-13dec56a2e50",
+        "name": "Ultimate Pass",
+        "created_at": "2023-08-13T13:15:20.445Z",
+        "updated_at": "2023-08-14T01:45:02.658Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "af75d6bf-c0ec-4493-b700-196eb06d6313",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T19:59:21.554Z",
+        "updated_at": "2023-08-13T16:38:11.913Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "586dbb15-3e11-4518-8c7a-6f66c4cba5e5",
+        "name": "Mission Phoenix",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T15:50:26.807Z",
+        "updated_at": "2023-08-13T10:02:09.915Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "964836f3-ccd9-4bd7-9114-03e16f1cb48e",
+        "name": "Operation Blackout",
+        "reward": "$7,500",
+        "created_at": "2023-08-14T02:15:09.241Z",
+        "updated_at": "2023-08-14T04:07:04.124Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "50a5edc4-0c27-41a7-ad03-8d458096a699",
+        "name": "Project Firestorm",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T15:47:46.303Z",
+        "updated_at": "2023-08-13T13:36:06.737Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "db8f116f-ef15-4341-a094-6398e09dc2d9",
+        "name": "Operation Nightfall",
+        "reward": "$8,000",
+        "created_at": "2023-08-14T00:13:31.604Z",
+        "updated_at": "2023-08-13T17:40:56.603Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "63cfac2a-1f16-4151-a88d-878d432e02be",
+        "name": "Cityscape",
+        "created_at": "2023-08-14T01:14:33.225Z",
+        "updated_at": "2023-08-13T23:40:46.910Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8a8c941f-c212-486d-a673-17091270fcc5",
+        "name": "Jungle Ruins",
+        "created_at": "2023-08-13T21:50:52.571Z",
+        "updated_at": "2023-08-13T12:07:23.341Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "95966b4a-c2b3-4db5-a14d-fe7b03e56fe4",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-14T03:36:27.825Z",
+        "updated_at": "2023-08-14T05:00:57.195Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8183540-9f35-4b0f-a9a0-8ba64d7abe4f",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T16:10:05.267Z",
+        "updated_at": "2023-08-13T16:31:49.171Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "64d80cae-3410-44cf-885b-a455729f3266",
+        "name": "Abandoned Warehouse",
+        "created_at": "2023-08-13T15:26:51.663Z",
+        "updated_at": "2023-08-13T08:33:23.737Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "09ab28ee-3265-4d44-84ec-631c270f1bd2",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T09:52:59.541Z",
+        "updated_at": "2023-08-13T09:23:07.430Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3187850-95e8-4e85-8cd7-acdb35dd2c0c",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T08:32:06.234Z",
+        "updated_at": "2023-08-13T17:33:36.142Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d0814b9-c0f8-4a29-ac45-75375ff5418b",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-14T00:26:54.585Z",
+        "updated_at": "2023-08-13T17:25:47.576Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c69a755e-3a1a-43ad-80ab-6933d4cda1f8",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-13T10:46:43.252Z",
+        "updated_at": "2023-08-14T02:06:18.303Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17915b6e-8cce-4ac9-a17e-596ebdbb47f1",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T07:17:28.751Z",
+        "updated_at": "2023-08-13T20:48:30.073Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "417ea3e7-73f9-4af1-add2-d8c25e45ecbf",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T08:41:37.027Z",
+        "updated_at": "2023-08-13T13:10:41.424Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "59f01696-a6fd-4dc6-8088-c2ea3cd1cf60",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T20:47:07.525Z",
+        "updated_at": "2023-08-13T20:34:30.404Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8639b6a5-f418-4faf-ae75-7c757ee404e4",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T12:28:22.489Z",
+        "updated_at": "2023-08-13T13:43:01.845Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2f29f0e1-77c1-448c-a750-a92c7f7d5b75",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T15:57:03.362Z",
+        "updated_at": "2023-08-14T04:59:17.853Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "023f9033-360d-4f57-89b5-31c511a2c366",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-13T15:05:48.494Z",
+        "updated_at": "2023-08-13T11:40:02.888Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "e27f847e-d393-4adc-9c04-cf8199424bae",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-14T05:47:50.529Z",
+        "updated_at": "2023-08-14T04:59:39.097Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aca68ce0-6bc7-4adc-9792-bf95d82678fe",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-14T00:01:36.696Z",
+        "updated_at": "2023-08-13T17:16:47.366Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66069233-aa08-4d01-b7e5-a1229519e68d",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T08:50:02.618Z",
+        "updated_at": "2023-08-13T21:35:43.301Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "86cbf173-9195-4628-8d92-bb3a440a6662",
+        "name": "Grip",
+        "type": "Stability",
+        "created_at": "2023-08-13T22:06:35.405Z",
+        "updated_at": "2023-08-13T13:19:28.371Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "25cea47c-4ab0-421d-af43-5993291677ea",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-14T05:53:12.114Z",
+        "updated_at": "2023-08-13T11:31:55.716Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f2f8906f-6999-4b45-b265-a166dec78ca2",
+        "email": "Winston19@yahoo.com",
+        "firstName": "Ramon",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56575627",
+        "tenantId": null
+      },
+      {
+        "reference": "e5e16d49-a346-4902-8491-33b1d2859e95",
+        "email": "Kyla87@yahoo.com",
+        "firstName": "Maud",
+        "lastName": "Prosacco-Barton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30692276",
+        "tenantId": null
+      },
+      {
+        "reference": "17d66b51-d266-45ef-9e36-3f30ececfd9f",
+        "email": "Dakota_Willms@hotmail.com",
+        "firstName": "Luciano",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48277100",
+        "tenantId": null
+      },
+      {
+        "reference": "a8de695d-dea5-4a3a-890f-2efbea31c9fc",
+        "email": "Jaden1@yahoo.com",
+        "firstName": "Mitchell",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/53658858",
+        "tenantId": null
+      },
+      {
+        "reference": "5db3c137-e867-4992-b594-e1e28e6d2b1e",
+        "email": "Abraham_Wehner@yahoo.com",
+        "firstName": "Heather",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73850246",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "24695cf2-ece2-4d38-8e87-c7aec423e664",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T16:57:39.255Z",
+        "updated_at": "2023-08-13T23:56:25.912Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d7e5deb8-94ab-411f-b627-a3e936331c6b",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-14T02:05:02.544Z",
+        "updated_at": "2023-08-14T05:27:43.717Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "259f7493-e0d6-4bc4-a4e8-ebad59ba325e",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-14T01:43:17.039Z",
+        "updated_at": "2023-08-13T10:55:25.230Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d90ea15-589a-4fb2-934a-894eaf8d6a5b",
+        "name": "Phoenix",
+        "type": "Pistol",
+        "created_at": "2023-08-13T07:22:09.578Z",
+        "updated_at": "2023-08-13T12:35:34.575Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "933854f8-9cf2-40dd-9d3e-01b167f3983c",
+        "name": "Titan",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T14:11:18.528Z",
+        "updated_at": "2023-08-14T02:18:45.683Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "1c5ab319-0c82-4b10-b281-189bb6b2c8e1",
+        "name": "Access Pass",
+        "created_at": "2023-08-14T02:59:54.879Z",
+        "updated_at": "2023-08-13T23:10:45.045Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a36075e8-4186-4b3b-add8-05791c079f61",
+        "name": "Security Pass",
+        "created_at": "2023-08-14T05:51:11.503Z",
+        "updated_at": "2023-08-13T19:58:13.645Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "616c94a4-2b8c-4127-be6d-e28f72917981",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-14T06:47:20.758Z",
+        "updated_at": "2023-08-13T14:41:35.370Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f78a31d-eb89-4898-9a66-7a5638924185",
+        "name": "Employee Pass",
+        "created_at": "2023-08-13T09:20:12.349Z",
+        "updated_at": "2023-08-13T09:51:03.002Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0bc3aa0d-d137-45e9-b8b8-a6cf8a2ec6d0",
+        "name": "VIP Pass",
+        "created_at": "2023-08-14T00:07:34.115Z",
+        "updated_at": "2023-08-13T20:03:48.497Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "28646176-d452-4476-a462-422983490d96",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T14:27:07.038Z",
+        "updated_at": "2023-08-14T05:12:37.001Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "308f2fb1-c417-43a3-8ab0-e6354f71e726",
+        "name": "Mission Alpha",
+        "reward": "$5,000",
+        "created_at": "2023-08-14T05:21:43.393Z",
+        "updated_at": "2023-08-13T10:20:52.037Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb4255e5-eb39-4b76-9777-9345162a98db",
+        "name": "Project Phoenix",
+        "reward": "$7,500",
+        "created_at": "2023-08-13T07:46:54.269Z",
+        "updated_at": "2023-08-14T02:31:35.702Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "465d2953-2ebe-42f5-a85a-6894db7ac229",
+        "name": "Operation Blackout",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T08:32:32.983Z",
+        "updated_at": "2023-08-13T21:52:34.012Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ea6cf0b9-cbb6-4a1f-986a-780cbe263af2",
+        "name": "Mission Delta",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T20:38:35.846Z",
+        "updated_at": "2023-08-13T10:56:09.446Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "71b5add9-12a5-4d45-b2ee-827920b22e22",
+        "name": "Forest Hideout",
+        "created_at": "2023-08-13T18:56:04.604Z",
+        "updated_at": "2023-08-14T03:52:52.007Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2929bffb-f1bd-4ac5-9486-4185b859aa85",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-14T01:17:44.111Z",
+        "updated_at": "2023-08-13T17:10:17.801Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "694c09fe-a2f7-4d60-9352-b0c0c87390e0",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T11:13:51.916Z",
+        "updated_at": "2023-08-13T11:21:31.322Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9742b9c4-923d-471a-a811-0468bad2f12e",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-13T09:21:08.776Z",
+        "updated_at": "2023-08-14T02:54:11.656Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2b489fc2-00c4-4de6-9bed-68e13d620928",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-14T02:28:44.271Z",
+        "updated_at": "2023-08-14T04:29:39.048Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "e72551d8-dbae-4fef-b0b5-edd8d54f04af",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-14T03:31:53.851Z",
+        "updated_at": "2023-08-14T00:31:02.685Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17444441-d937-4e59-a67d-40cc161a51da",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T23:17:59.076Z",
+        "updated_at": "2023-08-14T06:57:03.567Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c81302db-b3da-43ce-a9e7-c3bf613011d2",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-14T01:51:35.656Z",
+        "updated_at": "2023-08-13T10:28:24.607Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5c5d7784-1dd1-46c4-9a66-71a6cd74ddf7",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-13T22:53:31.479Z",
+        "updated_at": "2023-08-13T14:25:44.723Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "788da08e-2748-40ca-9917-c9d0de415cba",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T16:34:29.562Z",
+        "updated_at": "2023-08-13T22:56:25.868Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "7d778209-d02b-4331-8266-fd7047932e77",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-14T04:54:04.254Z",
+        "updated_at": "2023-08-13T10:50:12.745Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5faa1fda-2cec-4e22-87c2-313a4150472a",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T12:05:43.303Z",
+        "updated_at": "2023-08-14T06:42:41.056Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cb3b13a7-f59f-4a4d-b268-e2c874aecff8",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T12:43:46.991Z",
+        "updated_at": "2023-08-13T22:58:06.494Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4a1b7069-1e17-4ba7-a4ed-70aa35726cbe",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T10:11:48.021Z",
+        "updated_at": "2023-08-14T01:36:19.246Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eb6fa77e-97fb-46be-8f70-ea233ebe80b0",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-13T12:34:57.737Z",
+        "updated_at": "2023-08-13T23:34:31.893Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "96f78247-883d-433e-b6fd-167898faf7dc",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T18:12:38.401Z",
+        "updated_at": "2023-08-13T14:05:16.683Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "98391640-b7bf-43a0-a1d7-2a88c7d47944",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-13T12:23:43.497Z",
+        "updated_at": "2023-08-13T19:02:08.746Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "696a8ee4-0eb0-4a73-b2a1-bd77e66563f4",
+        "name": "Grip",
+        "type": "Handling",
+        "created_at": "2023-08-14T06:17:47.669Z",
+        "updated_at": "2023-08-13T23:38:37.446Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5eb8b00d-80be-4e21-974e-b06e315f668c",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-14T06:52:12.212Z",
+        "updated_at": "2023-08-13T07:32:49.681Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a100a339-c4fc-41fe-8914-e806f7b62cf0",
+        "name": "Scope",
+        "type": "Magnification",
+        "created_at": "2023-08-13T11:17:41.944Z",
+        "updated_at": "2023-08-14T05:57:34.504Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "77ac525d-1d98-4260-bbc1-0cef571bbe0e",
+        "email": "Elwyn_Rodriguez@hotmail.com",
+        "firstName": "Liliana",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15900690",
+        "tenantId": null
+      },
+      {
+        "reference": "7cde9864-5a56-415b-84f0-95ff53d7016f",
+        "email": "Carlee_Mertz@gmail.com",
+        "firstName": "Lupe",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1048.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0e3cfaac-53ad-43ba-b6c2-f36b37621c39",
+        "email": "Steve_Mayer64@yahoo.com",
+        "firstName": "Nia",
+        "lastName": "Leannon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58189898",
+        "tenantId": null
+      },
+      {
+        "reference": "a2b40ffc-29b0-4c11-b8cb-33b3afcfbbba",
+        "email": "Coty_Harris@yahoo.com",
+        "firstName": "Eulalia",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35362769",
+        "tenantId": null
+      },
+      {
+        "reference": "864acf16-290a-40ca-9926-4095ce84a600",
+        "email": "Lew76@hotmail.com",
+        "firstName": "Lambert",
+        "lastName": "Botsford",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/888.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "2ee71543-694c-422d-a855-ed4c1a072f14",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-13T18:11:03.244Z",
+        "updated_at": "2023-08-14T02:20:46.556Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c361eaf7-3ad4-4e7d-9031-e73aa79bc613",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T11:58:41.151Z",
+        "updated_at": "2023-08-13T12:58:05.404Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "540cb4af-35e6-4448-b43b-07bc880a5dd3",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-14T05:40:02.470Z",
+        "updated_at": "2023-08-13T19:44:24.024Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e7b458d3-bd6b-443e-840b-1dda03617c5f",
+        "name": "Shadow",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T09:16:07.724Z",
+        "updated_at": "2023-08-13T07:30:05.686Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9ba7ca4e-9ef9-450a-9c95-c873bef6020f",
+        "name": "Titan",
+        "type": "Pistol",
+        "created_at": "2023-08-14T01:07:52.286Z",
+        "updated_at": "2023-08-13T23:05:00.662Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "c06f3a12-9d2e-4a77-8329-6e88368adac9",
+        "name": "Silver Pass",
+        "created_at": "2023-08-13T18:57:48.554Z",
+        "updated_at": "2023-08-13T21:50:37.068Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2900a995-7cc7-441b-86f7-f4b94304ec94",
+        "name": "Gold Pass",
+        "created_at": "2023-08-13T20:10:15.913Z",
+        "updated_at": "2023-08-14T01:57:27.098Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "98e07a37-ab5a-4c17-be60-4e6b172a3aa6",
+        "name": "Platinum Pass",
+        "created_at": "2023-08-13T08:47:17.267Z",
+        "updated_at": "2023-08-14T05:18:58.368Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f00a6356-a0b3-4cfa-bf31-c69f23c335c3",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T12:17:57.001Z",
+        "updated_at": "2023-08-13T17:30:57.003Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0cff43de-3f8f-4df6-9eab-e882869cc004",
+        "name": "Ultimate Pass",
+        "created_at": "2023-08-14T06:28:36.735Z",
+        "updated_at": "2023-08-13T11:12:18.256Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "57838f57-9249-4f85-ad0f-6b74cfe409da",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T16:53:34.992Z",
+        "updated_at": "2023-08-13T15:16:47.800Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "39d40d3f-0aea-4889-8c79-9525934aca2d",
+        "name": "Mission Phoenix",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T16:28:46.841Z",
+        "updated_at": "2023-08-13T23:17:15.845Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "97f4726a-e380-410a-850a-f8d8caec6bc9",
+        "name": "Operation Blackout",
+        "reward": "$7,500",
+        "created_at": "2023-08-14T03:05:41.463Z",
+        "updated_at": "2023-08-14T04:33:20.381Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0a83cead-25d9-4484-bac5-b05e9dae4558",
+        "name": "Project Avalanche",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T22:51:40.005Z",
+        "updated_at": "2023-08-13T20:18:29.290Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "38d6ded6-1feb-4a73-86e1-3960b1b0b88b",
+        "name": "Operation Midnight",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T14:37:17.310Z",
+        "updated_at": "2023-08-13T13:59:01.357Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "38967073-6d9f-4d57-9cd9-7e6cacee6983",
+        "name": "Forest Hideout",
+        "created_at": "2023-08-13T10:53:07.042Z",
+        "updated_at": "2023-08-13T16:39:00.403Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1568944d-11d2-456b-86d7-7b375aaef732",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-14T00:41:29.211Z",
+        "updated_at": "2023-08-13T20:10:58.167Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5cf03a30-a3b3-4d53-ad3d-dd752bb791d8",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-14T02:30:57.372Z",
+        "updated_at": "2023-08-13T18:49:07.529Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "daa9016b-56ec-431c-a762-d3b5459345cc",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-13T17:54:39.464Z",
+        "updated_at": "2023-08-13T23:12:13.586Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "97ae7e79-a3fe-40d9-88df-cfacd4f937f4",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-14T01:20:46.822Z",
+        "updated_at": "2023-08-14T02:44:15.896Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "f0452bbc-b9c0-4845-9fb4-5df6e38da4f6",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T11:48:03.561Z",
+        "updated_at": "2023-08-13T14:05:53.779Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4bb9e32-2d00-4d90-bfe5-4c990876be0b",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T23:53:06.662Z",
+        "updated_at": "2023-08-14T00:48:40.145Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4629a5d-6788-4db3-bd7f-48ba9e98106c",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-13T08:00:13.462Z",
+        "updated_at": "2023-08-13T17:17:01.640Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cede9059-ddfd-4a0f-af4b-f769e339d352",
+        "name": "Demolition Loadout",
+        "created_at": "2023-08-13T22:44:08.022Z",
+        "updated_at": "2023-08-14T02:10:30.751Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbf6c933-80b6-4cd4-b669-a63113625fea",
+        "name": "Support Loadout",
+        "created_at": "2023-08-14T03:21:10.655Z",
+        "updated_at": "2023-08-13T14:32:48.086Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "bf6a5d9c-de18-4b27-8254-221b34b60820",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-14T03:58:09.541Z",
+        "updated_at": "2023-08-13T23:03:06.207Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f22f4f49-508f-46f4-90bf-59378efff09d",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-14T00:35:50.892Z",
+        "updated_at": "2023-08-13T19:07:43.310Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "913f9835-ef37-48e2-af1b-57ab118dfc35",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T19:30:00.691Z",
+        "updated_at": "2023-08-13T19:24:42.578Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0062eacb-7021-4965-bf79-65359d8c4d20",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T12:58:34.004Z",
+        "updated_at": "2023-08-13T23:12:44.380Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "14f0ad9f-e51d-4430-81b1-69beeabb74ca",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-14T02:15:02.737Z",
+        "updated_at": "2023-08-14T02:38:27.160Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "eb38d1b8-1165-4f2a-bccc-2aba44b603af",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T09:24:30.543Z",
+        "updated_at": "2023-08-13T09:39:30.168Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cad50ef7-17d7-4755-a244-b41d30453724",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-14T01:38:15.676Z",
+        "updated_at": "2023-08-13T10:30:19.910Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a4e7fe38-4a78-417f-b9c7-9a6a01f3fe55",
+        "name": "Grip",
+        "type": "Handling",
+        "created_at": "2023-08-13T19:51:17.687Z",
+        "updated_at": "2023-08-13T17:08:24.703Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "53778fb5-d18f-4411-b9d3-85c356321b25",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T15:22:50.941Z",
+        "updated_at": "2023-08-13T12:35:22.306Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "929f5910-7744-4a47-98cd-6ff23bade1c1",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T12:24:10.610Z",
+        "updated_at": "2023-08-14T06:25:02.196Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fbb30140-19c3-4ca4-a314-54d29c2b34d3",
+        "email": "Susanna.Lubowitz@yahoo.com",
+        "firstName": "Iva",
+        "lastName": "Leffler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86233759",
+        "tenantId": null
+      },
+      {
+        "reference": "095641a3-9a9a-40f9-94df-bc6e029e2781",
+        "email": "Eva.Wisozk@hotmail.com",
+        "firstName": "Katharina",
+        "lastName": "Brown",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55957567",
+        "tenantId": null
+      },
+      {
+        "reference": "bfc945cc-288d-4dd9-a32a-e31ceee10884",
+        "email": "Ross14@yahoo.com",
+        "firstName": "Hazel",
+        "lastName": "Greenholt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/103.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7559a212-ce14-419e-a173-93de82646948",
+        "email": "Fannie_Weissnat-DAmore@yahoo.com",
+        "firstName": "Carolina",
+        "lastName": "Rau",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/461.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "efbe2c8b-5e0d-4c69-aba3-8a68cb1eaa8b",
+        "email": "Darien63@hotmail.com",
+        "firstName": "Athena",
+        "lastName": "Conroy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/96.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "ac987c53-a98e-4dc3-8237-c53a14e6088e",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-14T01:02:59.463Z",
+        "updated_at": "2023-08-14T06:52:49.809Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af3ec5e9-b9d7-476a-bb01-8cd204b376c4",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-13T15:57:23.021Z",
+        "updated_at": "2023-08-13T22:40:03.136Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6320acc1-dd40-4d4b-9e49-889e4306b5d0",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-13T10:11:18.444Z",
+        "updated_at": "2023-08-14T06:54:41.121Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fe5f4366-2be0-4d1d-9207-4f77eaecca26",
+        "name": "Phoenix",
+        "type": "Pistol",
+        "created_at": "2023-08-14T06:06:48.800Z",
+        "updated_at": "2023-08-13T17:44:18.718Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0759392b-9e77-4be9-8367-3a6cc54d039d",
+        "name": "Titan",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T19:35:18.913Z",
+        "updated_at": "2023-08-13T10:32:09.383Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "e70b0ae1-ea68-4b65-9eb0-8762c78fb8b1",
+        "name": "Silver Pass",
+        "created_at": "2023-08-13T10:54:26.926Z",
+        "updated_at": "2023-08-14T02:49:35.835Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "344ee271-c41c-4484-bbbb-1bbd8c7839d4",
+        "name": "Gold Pass",
+        "created_at": "2023-08-13T09:44:53.312Z",
+        "updated_at": "2023-08-14T03:00:10.962Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5ce0d611-dd38-4375-b629-d20e866861b8",
+        "name": "Platinum Pass",
+        "created_at": "2023-08-13T14:10:59.604Z",
+        "updated_at": "2023-08-13T08:58:35.019Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "147b28c8-785d-4b48-ab71-6321f1a4edf5",
+        "name": "VIP Pass",
+        "created_at": "2023-08-13T15:32:00.909Z",
+        "updated_at": "2023-08-14T01:09:08.651Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "32070513-3959-4069-9cc9-8a6a36e5769b",
+        "name": "Ultimate Pass",
+        "created_at": "2023-08-13T15:39:19.293Z",
+        "updated_at": "2023-08-14T05:31:56.799Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "cd9f3512-1067-440f-94e8-d343afdc447f",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T11:28:20.000Z",
+        "updated_at": "2023-08-13T12:09:36.666Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3123ee35-10e7-44be-94c1-31376b545290",
+        "name": "Mission Alpha",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T22:35:12.790Z",
+        "updated_at": "2023-08-13T13:40:59.620Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2deeaab-2db3-4852-ad05-68ec089cd73b",
+        "name": "Project Phoenix",
+        "reward": "$7,500",
+        "created_at": "2023-08-14T05:33:43.391Z",
+        "updated_at": "2023-08-14T04:47:05.554Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8557bd04-c8d0-4d33-bf77-88109b31a2ba",
+        "name": "Operation Blackout",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T09:05:52.312Z",
+        "updated_at": "2023-08-13T14:31:08.996Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "18cc65d7-2513-44e2-8065-9c7f4f243224",
+        "name": "Task Force Delta",
+        "reward": "$8,000",
+        "created_at": "2023-08-14T04:57:45.825Z",
+        "updated_at": "2023-08-13T19:26:45.853Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "2f7d5785-0e95-423d-83b4-7ecbd23b40c8",
+        "name": "Forest Hideout",
+        "created_at": "2023-08-14T00:27:39.416Z",
+        "updated_at": "2023-08-13T09:21:26.758Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a22e3481-96f9-4b29-9061-7954a672a816",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-13T22:34:45.758Z",
+        "updated_at": "2023-08-14T07:10:46.856Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b683f9c6-81f0-4739-a1ed-9267051a481b",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T11:25:37.082Z",
+        "updated_at": "2023-08-14T05:14:30.637Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2bd854c2-720c-4efc-a3ce-bc72bfc55aa7",
+        "name": "Urban Jungle",
+        "created_at": "2023-08-13T08:07:13.433Z",
+        "updated_at": "2023-08-14T00:00:31.179Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "547913b9-d219-4aa5-92c5-8da4e15cd0f6",
+        "name": "Tropical Paradise",
+        "created_at": "2023-08-13T21:30:29.390Z",
+        "updated_at": "2023-08-14T00:51:05.857Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "4f9851d3-59b7-422e-a85e-89f9cdc4f15d",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-13T13:21:18.928Z",
+        "updated_at": "2023-08-13T11:07:43.660Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a48f7018-2537-4757-8fe2-1b81e55e3530",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-13T22:39:02.661Z",
+        "updated_at": "2023-08-13T09:14:17.582Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0077bf3-982f-45ce-93ec-897746102c79",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-13T11:38:10.242Z",
+        "updated_at": "2023-08-13T07:18:11.966Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "48e32ade-468f-49d0-a53c-0e60ce26110b",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-14T01:33:52.408Z",
+        "updated_at": "2023-08-14T04:51:57.826Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a41e6fa-238c-47ae-94cb-4c7e633b8036",
+        "name": "Support Loadout",
+        "created_at": "2023-08-13T10:35:01.931Z",
+        "updated_at": "2023-08-13T11:26:55.811Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "b14fbf5a-3f30-49db-a85b-9c3a695c1f7c",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-14T03:32:27.219Z",
+        "updated_at": "2023-08-14T03:50:01.232Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "23afc301-5d47-4886-8c9b-9fdc96c89efa",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-13T09:12:23.000Z",
+        "updated_at": "2023-08-13T23:25:07.552Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ff6ca8bd-d5b8-46b1-b812-961ba7d905b0",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T16:50:47.664Z",
+        "updated_at": "2023-08-13T09:21:14.321Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dce1dc0b-f388-46b5-9901-282401814275",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T19:08:02.388Z",
+        "updated_at": "2023-08-13T16:19:01.059Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ac9c49e3-e54c-4f85-ab59-29de764a19a9",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-13T16:18:17.333Z",
+        "updated_at": "2023-08-14T01:59:22.855Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "ff3aed53-0742-49fb-9ea0-f9dbd0717c85",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-14T05:02:15.252Z",
+        "updated_at": "2023-08-13T19:16:51.120Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0687fab8-14dc-4bd8-af57-bc01e1267b45",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-14T01:58:59.724Z",
+        "updated_at": "2023-08-13T16:27:24.660Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d5a59726-d82e-417d-87ec-3adeeb39280f",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T10:30:20.615Z",
+        "updated_at": "2023-08-13T14:38:03.893Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4d56ed3a-6dcd-40f0-ba45-d85b869ce4ba",
+        "name": "Grip",
+        "type": "Stability",
+        "created_at": "2023-08-14T05:33:10.712Z",
+        "updated_at": "2023-08-13T13:51:05.621Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "835e8e72-72c6-4f7f-a2ca-72adea859329",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T22:49:38.608Z",
+        "updated_at": "2023-08-13T16:57:28.520Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "408c72a3-8924-4346-b942-e07e01418a87",
+        "email": "Lyla_Smitham@yahoo.com",
+        "firstName": "Lyla",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65702622",
+        "tenantId": null
+      },
+      {
+        "reference": "8660d965-fab1-470d-b2d2-f8c2b8672def",
+        "email": "Garry.Leannon69@gmail.com",
+        "firstName": "Arnulfo",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/261.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9bebfc11-41c7-4845-90b6-9ba79b00cce6",
+        "email": "Eliezer56@yahoo.com",
+        "firstName": "Jeremy",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33261020",
+        "tenantId": null
+      },
+      {
+        "reference": "3d190f7d-d143-41d2-9dda-0297bad66d83",
+        "email": "Leda.Nitzsche-Aufderhar@gmail.com",
+        "firstName": "Kayli",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/379.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d9be8839-f14c-48f1-86c1-643c8a27d112",
+        "email": "Frankie78@yahoo.com",
+        "firstName": "Rose",
+        "lastName": "Beatty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23237808",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "weapon": [
+      {
+        "id": "9745b036-d3a2-4d60-a32f-7c1525c2e732",
+        "name": "Maverick",
+        "type": "Assault Rifle",
+        "created_at": "2023-08-14T03:07:04.758Z",
+        "updated_at": "2023-08-14T04:25:00.489Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c5c7ae90-6439-472d-9d1a-591899ce48e5",
+        "name": "Viper",
+        "type": "Sniper Rifle",
+        "created_at": "2023-08-14T02:07:03.418Z",
+        "updated_at": "2023-08-13T22:04:12.986Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c72de635-2954-446e-8f1e-5bacbf95291f",
+        "name": "Raptor",
+        "type": "Shotgun",
+        "created_at": "2023-08-14T01:02:10.060Z",
+        "updated_at": "2023-08-14T06:06:28.715Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "15a079b5-a6e5-4ffb-973a-b3ea852c2b98",
+        "name": "Shadow",
+        "type": "Submachine Gun",
+        "created_at": "2023-08-13T17:29:41.301Z",
+        "updated_at": "2023-08-13T21:13:01.508Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e605f5cc-2a9a-4fe4-9071-c5ae6c5983f8",
+        "name": "Titan",
+        "type": "Pistol",
+        "created_at": "2023-08-13T22:46:15.003Z",
+        "updated_at": "2023-08-14T03:03:51.653Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "pass": [
+      {
+        "id": "41547342-db43-4110-9710-b179296067fc",
+        "name": "Access Pass",
+        "created_at": "2023-08-13T07:48:54.114Z",
+        "updated_at": "2023-08-13T15:07:20.528Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c7600c4a-61fa-42c1-9bdb-62bbf21c1315",
+        "name": "Security Pass",
+        "created_at": "2023-08-13T21:37:58.058Z",
+        "updated_at": "2023-08-14T04:04:33.846Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "81196cb0-800d-4b15-bf91-dd138d0905d7",
+        "name": "Visitor Pass",
+        "created_at": "2023-08-13T17:19:57.253Z",
+        "updated_at": "2023-08-13T21:19:55.028Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c6c0c71f-bf97-46e5-a0d2-b2aee6aa6ffe",
+        "name": "Employee Pass",
+        "created_at": "2023-08-14T04:11:42.072Z",
+        "updated_at": "2023-08-13T17:29:38.397Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "580b0409-1167-49e8-a449-1321b01e2c41",
+        "name": "VIP Pass",
+        "created_at": "2023-08-14T02:32:27.863Z",
+        "updated_at": "2023-08-13T23:20:12.601Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "mission": [
+      {
+        "id": "7c4c2f17-d2b8-4153-ba36-29342cd17e76",
+        "name": "Operation Thunder",
+        "reward": "$10,000",
+        "created_at": "2023-08-13T15:23:20.687Z",
+        "updated_at": "2023-08-14T06:00:27.280Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fb731a14-02cd-4db8-82b6-50fdf4adaea0",
+        "name": "Mission Phoenix",
+        "reward": "$5,000",
+        "created_at": "2023-08-13T12:18:52.042Z",
+        "updated_at": "2023-08-13T13:52:33.102Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2ea51997-63a2-42b9-88d0-e5cf32cc643e",
+        "name": "Project Avalanche",
+        "reward": "$7,500",
+        "created_at": "2023-08-14T02:21:54.751Z",
+        "updated_at": "2023-08-13T22:12:23.053Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d9853a6a-8dd7-46e0-a089-35aeadcce64d",
+        "name": "Operation Blackout",
+        "reward": "$12,500",
+        "created_at": "2023-08-13T09:00:22.760Z",
+        "updated_at": "2023-08-13T23:55:33.644Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "df085d36-90bc-4a71-9641-65b91221f8c2",
+        "name": "Mission Firestorm",
+        "reward": "$8,000",
+        "created_at": "2023-08-13T15:19:11.420Z",
+        "updated_at": "2023-08-14T06:49:30.836Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "map": [
+      {
+        "id": "e862c59f-08f8-401d-8870-b6f25cceb49e",
+        "name": "Cityscape",
+        "created_at": "2023-08-13T14:04:15.773Z",
+        "updated_at": "2023-08-13T21:40:56.061Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7716a08e-f9d7-430a-937c-52049979d892",
+        "name": "Jungle Ruins",
+        "created_at": "2023-08-13T17:07:23.107Z",
+        "updated_at": "2023-08-13T08:46:36.836Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d7550c4f-0c58-4ee4-9100-c931a756c5ad",
+        "name": "Desert Oasis",
+        "created_at": "2023-08-13T11:53:23.323Z",
+        "updated_at": "2023-08-13T20:14:13.033Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6319a711-04ac-4260-aa49-1c17899f2fc5",
+        "name": "Snowy Peaks",
+        "created_at": "2023-08-13T22:08:12.783Z",
+        "updated_at": "2023-08-13T23:22:47.547Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e776ddfc-6cd5-4456-a5ac-2152a602bffb",
+        "name": "Volcanic Island",
+        "created_at": "2023-08-13T23:05:56.313Z",
+        "updated_at": "2023-08-13T14:56:44.447Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "loadout": [
+      {
+        "id": "64130a29-323b-4749-9a0c-61686a87d912",
+        "name": "Stealth Loadout",
+        "created_at": "2023-08-14T04:47:15.553Z",
+        "updated_at": "2023-08-13T19:00:38.670Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee431af7-f299-41af-b756-52af9c8c43cf",
+        "name": "Heavy Assault Loadout",
+        "created_at": "2023-08-14T03:49:16.793Z",
+        "updated_at": "2023-08-13T13:35:49.640Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e953b53-b50a-4dad-9875-3509ec47af60",
+        "name": "Sniper Loadout",
+        "created_at": "2023-08-13T13:11:00.660Z",
+        "updated_at": "2023-08-13T12:33:17.610Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a94373a2-78f1-41a3-a4ef-421c5f59d877",
+        "name": "Close Quarters Loadout",
+        "created_at": "2023-08-13T20:08:17.397Z",
+        "updated_at": "2023-08-13T07:16:20.269Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c921e5c0-13c8-42e1-8872-0842521e1be0",
+        "name": "Support Loadout",
+        "created_at": "2023-08-14T00:50:12.196Z",
+        "updated_at": "2023-08-13T17:54:28.366Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "grenade": [
+      {
+        "id": "5c3018f6-78b6-445a-a918-3bebbc25269f",
+        "name": "Flashbang",
+        "type": "Stun",
+        "created_at": "2023-08-13T15:11:20.418Z",
+        "updated_at": "2023-08-13T12:12:51.506Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "607f2f5c-0d9b-46f7-845b-b3dcc86e82e7",
+        "name": "Smoke Grenade",
+        "type": "Smoke",
+        "created_at": "2023-08-14T00:58:20.041Z",
+        "updated_at": "2023-08-13T12:22:42.554Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "30eafde0-96b5-4d1a-aad4-f0810fda81ec",
+        "name": "Frag Grenade",
+        "type": "Explosive",
+        "created_at": "2023-08-13T08:40:58.267Z",
+        "updated_at": "2023-08-13T15:44:53.263Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87cae21f-3d32-4cc6-b36c-1aee42d5a571",
+        "name": "Incendiary Grenade",
+        "type": "Fire",
+        "created_at": "2023-08-13T18:30:35.091Z",
+        "updated_at": "2023-08-14T05:55:51.280Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a13c3584-891e-4d5f-8e1d-cbab6f05a922",
+        "name": "EMP Grenade",
+        "type": "Disabling",
+        "created_at": "2023-08-14T04:52:07.735Z",
+        "updated_at": "2023-08-13T17:49:48.613Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "attachment": [
+      {
+        "id": "b1d72a11-a932-4af3-be5a-d24b58dc4b8d",
+        "name": "Red Dot Sight",
+        "type": "Optical",
+        "created_at": "2023-08-13T19:31:12.284Z",
+        "updated_at": "2023-08-13T16:13:52.884Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c9606b05-e607-4b90-aed0-c0403abbd550",
+        "name": "Silencer",
+        "type": "Suppression",
+        "created_at": "2023-08-13T11:19:10.656Z",
+        "updated_at": "2023-08-13T18:37:58.069Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "09a42024-28aa-4500-bfa3-e6aa288e87cd",
+        "name": "Extended Magazine",
+        "type": "Ammunition",
+        "created_at": "2023-08-13T14:14:15.411Z",
+        "updated_at": "2023-08-13T20:02:50.966Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66fb56c2-0253-4ff2-a0f0-ea3f709b10ee",
+        "name": "Grip",
+        "type": "Stability",
+        "created_at": "2023-08-13T21:24:39.982Z",
+        "updated_at": "2023-08-13T18:58:53.291Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd3e7495-a74c-4162-abb4-088f5a0e39bc",
+        "name": "Holographic Sight",
+        "type": "Tactical",
+        "created_at": "2023-08-13T11:19:17.027Z",
+        "updated_at": "2023-08-14T02:02:19.321Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7c57d693-f6c5-4a51-8227-946f0655eff1",
+        "email": "Morgan87@yahoo.com",
+        "firstName": "Hilda",
+        "lastName": "Crist",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1236.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "487d9588-0138-4ef6-9a33-28284d4effb7",
+        "email": "Rico.Bashirian20@hotmail.com",
+        "firstName": "Una",
+        "lastName": "Schamberger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68784680",
+        "tenantId": null
+      },
+      {
+        "reference": "d614394c-eeaf-4c99-960e-2cfa10a1b57e",
+        "email": "Jalon_Parisian@hotmail.com",
+        "firstName": "Shanelle",
+        "lastName": "Kuvalis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7112139",
+        "tenantId": null
+      },
+      {
+        "reference": "1bd44435-3884-4bc8-9b8a-9a224556dfb8",
+        "email": "Brian64@gmail.com",
+        "firstName": "Leonie",
+        "lastName": "Mann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/66.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e4c39cde-b768-4d0c-be97-ae0ee66e8f53",
+        "email": "Linnie_Leuschke@hotmail.com",
+        "firstName": "Wiley",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45991130",
+        "tenantId": null
+      }
+    ]
+  }
+]
